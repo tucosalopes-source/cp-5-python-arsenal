@@ -1,0 +1,16 @@
+PASSAGEM DE PLANTÃO - Arsenal de Skins - Valorant
+Ocorrências abertas: 3
+Abertas com prioridade alta: 1
+
+1) Serviço: busca
+   Descrição: Filtro por arma não retorna as skins da Vandal; o jogador vê a lista vazia.
+   Prioridade: alta
+   Próxima ação: Recriar o índice de busca por arma e testar com Vandal e Phantom.
+2) Serviço: detalhes
+   Descrição: O vídeo de prévia da skin Reaver não carrega na página de detalhes.
+   Prioridade: baixa
+   Próxima ação: Trocar a URL do vídeo pela versão do CDN novo.
+3) Serviço: coleções
+   Descrição: Preço em VP da coleção Glitchpop aparece zerado no carrinho.
+   Prioridade: media
+   Próxima ação: Conferir a tabela de preços da coleção e atualizar o valor em VP.

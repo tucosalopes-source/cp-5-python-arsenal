@@ -1,0 +1,30 @@
+[
+    {
+        "servico": "busca",
+        "descricao": "Filtro por arma não retorna as skins da Vandal; o jogador vê a lista vazia.",
+        "prioridade": "alta",
+        "status": "aberto",
+        "proxima_acao": "Recriar o índice de busca por arma e testar com Vandal e Phantom."
+    },
+    {
+        "servico": "detalhes",
+        "descricao": "O vídeo de prévia da skin Reaver não carrega na página de detalhes.",
+        "prioridade": "baixa",
+        "status": "aberto",
+        "proxima_acao": "Trocar a URL do vídeo pela versão do CDN novo."
+    },
+    {
+        "servico": "api de skins",
+        "descricao": "API de skins retornava erro 500 ao listar a coleção Prime.",
+        "prioridade": "alta",
+        "status": "resolvido",
+        "proxima_acao": "nenhuma"
+    },
+    {
+        "servico": "coleções",
+        "descricao": "Preço em VP da coleção Glitchpop aparece zerado no carrinho.",
+        "prioridade": "media",
+        "status": "aberto",
+        "proxima_acao": "Conferir a tabela de preços da coleção e atualizar o valor em VP."
+    }
+]

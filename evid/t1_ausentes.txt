@@ -1,0 +1,43 @@
+
+=== Arsenal de Skins - Valorant ===
+1 - Registrar ocorrência
+2 - Consultar ocorrências
+3 - Registrar anotação no diário
+4 - Consultar diário
+5 - Gerar passagem de plantão
+6 - Sair
+Escolha: Não há ocorrências.
+
+=== Arsenal de Skins - Valorant ===
+1 - Registrar ocorrência
+2 - Consultar ocorrências
+3 - Registrar anotação no diário
+4 - Consultar diário
+5 - Gerar passagem de plantão
+6 - Sair
+Escolha: Nenhuma anotação registrada.
+
+=== Arsenal de Skins - Valorant ===
+1 - Registrar ocorrência
+2 - Consultar ocorrências
+3 - Registrar anotação no diário
+4 - Consultar diário
+5 - Gerar passagem de plantão
+6 - Sair
+Escolha: 
+PASSAGEM DE PLANTÃO - Arsenal de Skins - Valorant
+Ocorrências abertas: 0
+Abertas com prioridade alta: 0
+
+Nenhuma pendência para o próximo plantão
+
+
+=== Arsenal de Skins - Valorant ===
+1 - Registrar ocorrência
+2 - Consultar ocorrências
+3 - Registrar anotação no diário
+4 - Consultar diário
+5 - Gerar passagem de plantão
+6 - Sair
+Escolha: Encerrando.
+exit=0

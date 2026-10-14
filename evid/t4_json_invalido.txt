@@ -1,0 +1,53 @@
+--- antes:
+ea359f01d26abd2c180c66df615c0725 *ocorrencias.json
+311ff78a5fc91fff81a9c48da71098f4 *passagem.txt
+
+=== Arsenal de Skins - Valorant ===
+1 - Registrar ocorrência
+2 - Consultar ocorrências
+3 - Registrar anotação no diário
+4 - Consultar diário
+5 - Gerar passagem de plantão
+6 - Sair
+Escolha: ocorrencias.json está inválido. Corrija o arquivo e tente novamente.
+
+=== Arsenal de Skins - Valorant ===
+1 - Registrar ocorrência
+2 - Consultar ocorrências
+3 - Registrar anotação no diário
+4 - Consultar diário
+5 - Gerar passagem de plantão
+6 - Sair
+Escolha: ocorrencias.json está inválido. Corrija o arquivo e tente novamente.
+
+=== Arsenal de Skins - Valorant ===
+1 - Registrar ocorrência
+2 - Consultar ocorrências
+3 - Registrar anotação no diário
+4 - Consultar diário
+5 - Gerar passagem de plantão
+6 - Sair
+Escolha: ocorrencias.json está inválido. Corrija o arquivo e tente novamente.
+
+=== Arsenal de Skins - Valorant ===
+1 - Registrar ocorrência
+2 - Consultar ocorrências
+3 - Registrar anotação no diário
+4 - Consultar diário
+5 - Gerar passagem de plantão
+6 - Sair
+Escolha: Serviço: Anotação: Anotação registrada no diário.
+
+=== Arsenal de Skins - Valorant ===
+1 - Registrar ocorrência
+2 - Consultar ocorrências
+3 - Registrar anotação no diário
+4 - Consultar diário
+5 - Gerar passagem de plantão
+6 - Sair
+Escolha: Encerrando.
+--- depois:
+ea359f01d26abd2c180c66df615c0725 *ocorrencias.json
+311ff78a5fc91fff81a9c48da71098f4 *passagem.txt
+--- conteúdo do JSON:
+{erro}

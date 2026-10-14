@@ -1,0 +1,6 @@
+61c7588b21ad75a1294118df9babf7c7 *diario.txt
+61c7588b21ad75a1294118df9babf7c7 *diario.txt
+linhas passagem:
+16
+cabeçalhos:
+1

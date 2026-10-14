@@ -1,0 +1,3 @@
+busca — Reindexação manual testada sem sucesso
+api de skins — Cache da API limpo; coleção Prime listando normalmente
+coleções — Preço zerado confirmado em 3 skins da Glitchpop

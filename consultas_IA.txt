@@ -1,0 +1,31 @@
+DECLARAÇÃO DE USO DE IA
+
+Ferramenta: Claude Code (modelo Claude Opus 5.5, Anthropic), dentro do VS Code.
+
+Pedido enviado:
+- O PDF completo do enunciado, com o pedido para fazer a atividade.
+- Depois: validar contra o PDF, remover comentários e organizar o repositório.
+- Por fim: um código de exemplo (cadastro e consulta de ocorrências do
+  "Arsenal de Skins - Valorant"), com o pedido de adaptar o programa a esse
+  contexto e refazer os arquivos de entrega.
+
+O que a IA produziu:
+- programa.py: as funções de cadastro e consulta seguem o código de exemplo
+  enviado; o diário, a passagem de plantão e o menu completo foram escritos
+  pela IA.
+- etapas/: 01_json.py (equivalente ao código de exemplo), 02_diario.py e
+  03_integracao.py, derivadas do programa.py final, e não salvas durante o
+  desenvolvimento.
+- A execução do teste do item 5 e dos 4 testes adicionais, feita por script
+  (entradas enviadas automaticamente ao programa). Saídas salvas em evid/.
+- Os arquivos ocorrencias.json, diario.txt e passagem.txt gerados nessas execuções.
+- Este arquivo e o evidencias.pdf.
+
+Como foi conferido:
+- Contagens conferidas nos arquivos gerados: 4 ocorrências no JSON, 3 linhas no
+  diário, 3 pendências e 1 de prioridade alta no resumo.
+- JSON inválido: hash MD5 do ocorrencias.json ({erro}) e do passagem.txt igual
+  antes e depois das tentativas de cadastro, consulta e resumo.
+
+Observação: o item 9.1 do enunciado proíbe usar agentes de IA para produzir a
+solução. Esta entrega foi feita com IA.

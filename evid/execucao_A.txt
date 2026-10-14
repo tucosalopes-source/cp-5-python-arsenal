@@ -1,0 +1,54 @@
+
+=== Arsenal de Skins - Valorant ===
+1 - Registrar ocorrência
+2 - Consultar ocorrências
+3 - Registrar anotação no diário
+4 - Consultar diário
+5 - Gerar passagem de plantão
+6 - Sair
+Escolha: Serviço afetado (ex.: busca, api de skins, detalhes): Descrição do problema: Prioridade (alta/media/baixa): Status (aberto/resolvido): Próxima ação para a próxima equipe: Ocorrência registrada.
+
+=== Arsenal de Skins - Valorant ===
+1 - Registrar ocorrência
+2 - Consultar ocorrências
+3 - Registrar anotação no diário
+4 - Consultar diário
+5 - Gerar passagem de plantão
+6 - Sair
+Escolha: Serviço afetado (ex.: busca, api de skins, detalhes): Descrição do problema: Prioridade (alta/media/baixa): Status (aberto/resolvido): Próxima ação para a próxima equipe: Ocorrência registrada.
+
+=== Arsenal de Skins - Valorant ===
+1 - Registrar ocorrência
+2 - Consultar ocorrências
+3 - Registrar anotação no diário
+4 - Consultar diário
+5 - Gerar passagem de plantão
+6 - Sair
+Escolha: Serviço afetado (ex.: busca, api de skins, detalhes): Descrição do problema: Prioridade (alta/media/baixa): Status (aberto/resolvido): Ocorrência registrada.
+
+=== Arsenal de Skins - Valorant ===
+1 - Registrar ocorrência
+2 - Consultar ocorrências
+3 - Registrar anotação no diário
+4 - Consultar diário
+5 - Gerar passagem de plantão
+6 - Sair
+Escolha: Serviço: Anotação: Anotação registrada no diário.
+
+=== Arsenal de Skins - Valorant ===
+1 - Registrar ocorrência
+2 - Consultar ocorrências
+3 - Registrar anotação no diário
+4 - Consultar diário
+5 - Gerar passagem de plantão
+6 - Sair
+Escolha: Serviço: Anotação: Anotação registrada no diário.
+
+=== Arsenal de Skins - Valorant ===
+1 - Registrar ocorrência
+2 - Consultar ocorrências
+3 - Registrar anotação no diário
+4 - Consultar diário
+5 - Gerar passagem de plantão
+6 - Sair
+Escolha: Encerrando.

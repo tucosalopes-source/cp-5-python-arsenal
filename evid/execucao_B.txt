@@ -1,0 +1,95 @@
+
+=== Arsenal de Skins - Valorant ===
+1 - Registrar ocorrência
+2 - Consultar ocorrências
+3 - Registrar anotação no diário
+4 - Consultar diário
+5 - Gerar passagem de plantão
+6 - Sair
+Escolha: 
+Ocorrência 1
+  Serviço: busca
+  Descrição: Filtro por arma não retorna as skins da Vandal; o jogador vê a lista vazia.
+  Prioridade: alta
+  Status: aberto
+  Próxima ação: Recriar o índice de busca por arma e testar com Vandal e Phantom.
+
+Ocorrência 2
+  Serviço: detalhes
+  Descrição: O vídeo de prévia da skin Reaver não carrega na página de detalhes.
+  Prioridade: baixa
+  Status: aberto
+  Próxima ação: Trocar a URL do vídeo pela versão do CDN novo.
+
+Ocorrência 3
+  Serviço: api de skins
+  Descrição: API de skins retornava erro 500 ao listar a coleção Prime.
+  Prioridade: alta
+  Status: resolvido
+  Próxima ação: nenhuma
+
+=== Arsenal de Skins - Valorant ===
+1 - Registrar ocorrência
+2 - Consultar ocorrências
+3 - Registrar anotação no diário
+4 - Consultar diário
+5 - Gerar passagem de plantão
+6 - Sair
+Escolha: 
+=== Diário ===
+busca — Reindexação manual testada sem sucesso
+api de skins — Cache da API limpo; coleção Prime listando normalmente
+
+
+=== Arsenal de Skins - Valorant ===
+1 - Registrar ocorrência
+2 - Consultar ocorrências
+3 - Registrar anotação no diário
+4 - Consultar diário
+5 - Gerar passagem de plantão
+6 - Sair
+Escolha: Serviço afetado (ex.: busca, api de skins, detalhes): Descrição do problema: Prioridade (alta/media/baixa): Status (aberto/resolvido): Próxima ação para a próxima equipe: Ocorrência registrada.
+
+=== Arsenal de Skins - Valorant ===
+1 - Registrar ocorrência
+2 - Consultar ocorrências
+3 - Registrar anotação no diário
+4 - Consultar diário
+5 - Gerar passagem de plantão
+6 - Sair
+Escolha: Serviço: Anotação: Anotação registrada no diário.
+
+=== Arsenal de Skins - Valorant ===
+1 - Registrar ocorrência
+2 - Consultar ocorrências
+3 - Registrar anotação no diário
+4 - Consultar diário
+5 - Gerar passagem de plantão
+6 - Sair
+Escolha: 
+PASSAGEM DE PLANTÃO - Arsenal de Skins - Valorant
+Ocorrências abertas: 3
+Abertas com prioridade alta: 1
+
+1) Serviço: busca
+   Descrição: Filtro por arma não retorna as skins da Vandal; o jogador vê a lista vazia.
+   Prioridade: alta
+   Próxima ação: Recriar o índice de busca por arma e testar com Vandal e Phantom.
+2) Serviço: detalhes
+   Descrição: O vídeo de prévia da skin Reaver não carrega na página de detalhes.
+   Prioridade: baixa
+   Próxima ação: Trocar a URL do vídeo pela versão do CDN novo.
+3) Serviço: coleções
+   Descrição: Preço em VP da coleção Glitchpop aparece zerado no carrinho.
+   Prioridade: media
+   Próxima ação: Conferir a tabela de preços da coleção e atualizar o valor em VP.
+
+
+=== Arsenal de Skins - Valorant ===
+1 - Registrar ocorrência
+2 - Consultar ocorrências
+3 - Registrar anotação no diário
+4 - Consultar diário
+5 - Gerar passagem de plantão
+6 - Sair
+Escolha: Encerrando.
